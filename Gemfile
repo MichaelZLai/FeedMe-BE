@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'figaro'
 gem 'rack-cors', :require => 'rack/cors'
 gem 'yelp', require: 'yelp'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
